@@ -1,0 +1,30 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+    font-size:18px;
+    background-color:darkcyan;
+    padding:5px 20px;
+}
+h2{
+    background-color: darkcyan;
+    padding :10px;
+    margin-bottom:0;
+    font-family: 'Acme', sans-serif;
+}
+h1{
+    font-family: 'Acme', sans-serif;
+}
+
+li{
+    color:black;
+    font-size:20px;
+    background-color:dodgerblue;
+    border-bottom: 1px solid black;
+
+}
+.navbar-brand{
+    font-size:25px;
+    font-family: 'Acme', sans-serif;
+}
